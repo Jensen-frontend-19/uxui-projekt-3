@@ -36,7 +36,7 @@ Glöm inte att publicera appen online!
 
 
 ### Deploy
-Appen ska publiceras online på GitHub, Heroku eller annan molntjänst. [Publicera Vue/React på Heroku](deploy.md)
+Appen ska publiceras online på GitHub, Heroku eller annan molntjänst. [Publicera Vue på GitHub pages](deploy.md)
 
 
 ### Så här ska ni arbeta
